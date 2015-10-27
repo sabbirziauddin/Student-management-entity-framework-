@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LinqToSqlStoreContainer" CdmEntityContainer="EMSEntities">
+    <EntitySetMapping Name="StudentDetails">
+      <EntityTypeMapping TypeName="LinqToSql.StudentDetail">
+        <MappingFragment StoreEntitySet="StudentDetail">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="section" ColumnName="section" />
+          <ScalarProperty Name="marks" ColumnName="marks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="emps">
+      <EntityTypeMapping TypeName="IsTypeOf(LinqToSql.emp)">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="deptno" ColumnName="DEPTNO" />
+          <ScalarProperty Name="salary" ColumnName="SALARY" />
+          <ScalarProperty Name="job" ColumnName="JOB" />
+          <ScalarProperty Name="name" ColumnName="ENAME" />
+          <ScalarProperty Name="empId" ColumnName="EMPNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

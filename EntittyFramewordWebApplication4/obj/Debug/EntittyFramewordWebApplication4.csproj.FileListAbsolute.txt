@@ -1,0 +1,8 @@
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\bin\EntittyFramewordWebApplication4.dll.config
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\bin\EntittyFramewordWebApplication4.dll
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\bin\EntittyFramewordWebApplication4.pdb
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\bin\EntityFramework.dll
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\bin\EntityFramework.xml
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\obj\Debug\EntittyFramewordWebApplication4.csprojResolveAssemblyReference.cache
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\obj\Debug\EntittyFramewordWebApplication4.dll
+c:\users\ziauddin\documents\visual studio 2013\Projects\EntittyFramewordWebApplication4\EntittyFramewordWebApplication4\obj\Debug\EntittyFramewordWebApplication4.pdb
